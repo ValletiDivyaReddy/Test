@@ -1,0 +1,5 @@
+package com.cg.em.model;
+
+public enum EventManagementAppMenu {
+	ADD, REMOVE, ORDEREDINDATESCHEDULED, ORDEREDINLOCATION, SEARCHLOCATION, SEARCHDATESCHEDULED, QUIT;
+}
